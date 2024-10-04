@@ -1,0 +1,49 @@
+{
+  "timestamp": "241003_2342",
+  "filterApplied": "More than five words, ordered by comments",
+  "articleCount": 6,
+  "articles": [
+    {
+      "id": "41736660",
+      "ranking": 9,
+      "title": "Go Concurrency vs. RxJS",
+      "points": 13,
+      "comments": 5
+    },
+    {
+      "id": "41696488",
+      "ranking": 4,
+      "title": "The Unraveling of Space-Time",
+      "points": 33,
+      "comments": 25
+    },
+    {
+      "id": "41733659",
+      "ranking": 29,
+      "title": "Improving Accessibility Using Vision Models",
+      "points": 34,
+      "comments": 10
+    },
+    {
+      "id": "41733714",
+      "ranking": 26,
+      "title": "HTTrack Website Copier",
+      "points": 66,
+      "comments": 15
+    },
+    {
+      "id": "41734047",
+      "ranking": 10,
+      "title": "The Heart of Unix (2018)",
+      "points": 100,
+      "comments": 45
+    },
+    {
+      "id": "41732853",
+      "ranking": 6,
+      "title": "Were RNNs all we needed?",
+      "points": 311,
+      "comments": 134
+    }
+  ]
+}

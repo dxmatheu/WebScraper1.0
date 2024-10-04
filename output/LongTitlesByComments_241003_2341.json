@@ -1,0 +1,175 @@
+{
+  "timestamp": "241003_2341",
+  "filterApplied": "More than five words, ordered by comments",
+  "articleCount": 24,
+  "articles": [
+    {
+      "id": "41734946",
+      "ranking": 21,
+      "title": "Mux (YC W16) is hiring a video engineer",
+      "points": 0,
+      "comments": 0
+    },
+    {
+      "id": "41736065",
+      "ranking": 23,
+      "title": "Show HN: Zero – DX focused non framework to interact with the DOM",
+      "points": 13,
+      "comments": 0
+    },
+    {
+      "id": "41737653",
+      "ranking": 19,
+      "title": "IRS Direct File adds 12 additional states, covers more tax situations in 2025",
+      "points": 8,
+      "comments": 1
+    },
+    {
+      "id": "41718228",
+      "ranking": 25,
+      "title": "I added a fun random ASCII art welcome screen to Vim",
+      "points": 6,
+      "comments": 1
+    },
+    {
+      "id": "41736605",
+      "ranking": 28,
+      "title": "SiteOne Crawler – big tool with no users",
+      "points": 13,
+      "comments": 2
+    },
+    {
+      "id": "41719335",
+      "ranking": 18,
+      "title": "Personal Names Around the World (2011)",
+      "points": 17,
+      "comments": 3
+    },
+    {
+      "id": "41736470",
+      "ranking": 24,
+      "title": "Perfctl: A Stealthy Malware Targeting Linux Servers",
+      "points": 10,
+      "comments": 3
+    },
+    {
+      "id": "41737037",
+      "ranking": 17,
+      "title": "Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak",
+      "points": 21,
+      "comments": 4
+    },
+    {
+      "id": "41735257",
+      "ranking": 27,
+      "title": "Skymont: Intel’s E-Cores reach for the Sky",
+      "points": 29,
+      "comments": 5
+    },
+    {
+      "id": "41718203",
+      "ranking": 12,
+      "title": "Why does Lisp use cons cells? (1998)",
+      "points": 12,
+      "comments": 7
+    },
+    {
+      "id": "41737326",
+      "ranking": 5,
+      "title": "Correcting the record for Continue and PearAI",
+      "points": 50,
+      "comments": 11
+    },
+    {
+      "id": "41735544",
+      "ranking": 1,
+      "title": "Robert Dennard, DRAM Pioneer, has died",
+      "points": 185,
+      "comments": 18
+    },
+    {
+      "id": "41732851",
+      "ranking": 14,
+      "title": "DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support",
+      "points": 66,
+      "comments": 18
+    },
+    {
+      "id": "41736903",
+      "ranking": 3,
+      "title": "Why does man print \"gimme gimme gimme\" at 00:30? (2017)",
+      "points": 62,
+      "comments": 19
+    },
+    {
+      "id": "41730574",
+      "ranking": 22,
+      "title": "Solving methane mysteries with satellite imagery",
+      "points": 115,
+      "comments": 20
+    },
+    {
+      "id": "41731769",
+      "ranking": 13,
+      "title": "MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone",
+      "points": 107,
+      "comments": 29
+    },
+    {
+      "id": "41732415",
+      "ranking": 16,
+      "title": "Why and how we’re migrating many of our servers from Linux to the BSDs",
+      "points": 100,
+      "comments": 29
+    },
+    {
+      "id": "41730983",
+      "ranking": 11,
+      "title": "Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]",
+      "points": 218,
+      "comments": 54
+    },
+    {
+      "id": "41736215",
+      "ranking": 15,
+      "title": "Cox slows Internet speeds in entire neighborhoods to punish any heavy users",
+      "points": 195,
+      "comments": 120
+    },
+    {
+      "id": "41730822",
+      "ranking": 30,
+      "title": "FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs",
+      "points": 187,
+      "comments": 126
+    },
+    {
+      "id": "41730896",
+      "ranking": 8,
+      "title": "Dance training superior to physical exercise in inducing brain plasticity (2018)",
+      "points": 248,
+      "comments": 131
+    },
+    {
+      "id": "41729325",
+      "ranking": 20,
+      "title": "UK will give sovereignty of Chagos Islands to Mauritius",
+      "points": 149,
+      "comments": 160
+    },
+    {
+      "id": "41730415",
+      "ranking": 2,
+      "title": "Patent troll Sable pays up, dedicates all its patents to the public",
+      "points": 862,
+      "comments": 278
+    },
+    {
+      "id": "41732634",
+      "ranking": 7,
+      "title": "Canvas is a new way to write and code with ChatGPT",
+      "points": 667,
+      "comments": 490
+    }
+  ]
+}

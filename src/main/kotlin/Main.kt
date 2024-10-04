@@ -66,10 +66,22 @@ fun main() {
         val formatter = DateTimeFormatter.ofPattern("yyMMdd_HHmm")
         val timestamp = requestTime.format(formatter)
 
-        val longTitlesByCommentsJsonText = gson.toJson(filterAndOrder.moreThanFiveWordTitlesOrderByComments(articleList))
-        File(outputDir, "LongTitlesByComments_$timestamp.json").writeText(longTitlesByCommentsJsonText)
+        val longTitlesByComments = filterAndOrder.moreThanFiveWordTitlesOrderByComments(articleList)
+        val longTitlesByCommentsMetadata = ArticleListWithMetadata(
+            timestamp = timestamp,
+            filterApplied = "More than five words, ordered by comments",
+            articleCount = longTitlesByComments.size,
+            articles = longTitlesByComments
+        )
+        File(outputDir, "LongTitlesByComments_$timestamp.json").writeText(gson.toJson(longTitlesByCommentsMetadata))
 
-        val shortTitlesByPointsJsonText = gson.toJson(filterAndOrder.equalOrLessThanFiveWordTitlesOrderByPoints(articleList))
-        File(outputDir, "ShortTitlesByPoints_$timestamp.json").writeText(shortTitlesByPointsJsonText)
+        val shortTitlesByPoints = filterAndOrder.equalOrLessThanFiveWordTitlesOrderByPoints(articleList)
+        val shortTitlesByPointsMetadata = ArticleListWithMetadata(
+            timestamp = timestamp,
+            filterApplied = "More than five words, ordered by comments",
+            articleCount = shortTitlesByPoints.size,
+            articles = shortTitlesByPoints
+        )
+        File(outputDir, "ShortTitlesByPoints_$timestamp.json").writeText(gson.toJson(shortTitlesByPointsMetadata))
     }
 }
