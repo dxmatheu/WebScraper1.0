@@ -12,6 +12,7 @@ repositories {
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
     implementation("it.skrape:skrapeit:1.2.2")
+    implementation("com.google.code.gson:gson:2.8.9")
 }
 
 tasks.test {

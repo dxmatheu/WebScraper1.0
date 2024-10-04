@@ -1,0 +1,44 @@
+[
+  {
+    "id": "41718947",
+    "ranking": 25,
+    "title": "Interviewing for Evidence",
+    "points": 4,
+    "comments": 0
+  },
+  {
+    "id": "41696488",
+    "ranking": 3,
+    "title": "The Unraveling of Space-Time",
+    "points": 19,
+    "comments": 14
+  },
+  {
+    "id": "41733659",
+    "ranking": 30,
+    "title": "Improving Accessibility Using Vision Models",
+    "points": 33,
+    "comments": 10
+  },
+  {
+    "id": "41733714",
+    "ranking": 24,
+    "title": "HTTrack Website Copier",
+    "points": 63,
+    "comments": 14
+  },
+  {
+    "id": "41734047",
+    "ranking": 11,
+    "title": "The Heart of Unix (2018)",
+    "points": 94,
+    "comments": 38
+  },
+  {
+    "id": "41732853",
+    "ranking": 4,
+    "title": "Were RNNs all we needed?",
+    "points": 295,
+    "comments": 131
+  }
+]
