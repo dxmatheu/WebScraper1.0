@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.9.22"
+    application
 }
 
 group = "org.example"
@@ -20,4 +21,7 @@ tasks.test {
 }
 kotlin {
     jvmToolchain(21)
+}
+application {
+    mainClass.set("org.example.MainKt") // Ensure this points to the correct entry point (Main.kt)
 }
